@@ -8,5 +8,5 @@ Almost forgot, I love video games :video_game: and MMO's with amazing lore are m
 
 ---
 
-Check out my community created with a couple friends where we work on our own open source projects and try to contribute to existing projects as well! Check it out over [here](https://www.github.com/wheredevsdev). Ideas are always welcome!
+Check out a community created with a couple friends where we work on our own open source projects and try to contribute to existing projects as well! It's over [here](https://www.github.com/wheredevsdev). Ideas are always welcome!
 
